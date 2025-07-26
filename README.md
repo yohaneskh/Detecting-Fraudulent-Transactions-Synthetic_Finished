@@ -48,7 +48,7 @@ To build a supervised **Machine Learning model** capable of identifying fraudule
    ```python
    from google.colab import drive
    drive.mount('/content/drive')
-3. Update the path to the dataset: file_path = '/content/drive/MyDrive/.../PS_20174392719_1491204439457_log.csv'
+3. Update the path to the dataset: file_path = '/content/drive/MyDrive/Google Colab Notebooks/Data Analysis and AI Portfolio/Detecting Fraudulent Transactions (synthetic)/PS_201~1.CSV'
 4. Run all cells and observe results for each Machine Learning model.
 
 ---
@@ -57,4 +57,12 @@ To build a supervised **Machine Learning model** capable of identifying fraudule
 - This notebook replicates the original Kaggle workflow but is adjusted to load the dataset via Google Drive, enabling hosting on GitHub.
 - No model logic or metric calculation was modified and the results remain unchanged.
 
+---
 
+## Author
+
+Yohanes Kurniawan Hertanto
+
+An aspiring Data Analyst with interest in Machine Learning
+
+https://www.kaggle.com/yohaneskhyekaha

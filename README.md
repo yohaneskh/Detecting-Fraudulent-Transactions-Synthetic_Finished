@@ -13,7 +13,7 @@ To build a supervised **Machine Learning model** capable of identifying fraudule
 ## B. Dataset Overview
 - **Source**: PaySim (via Kaggle).
 - **Size**: ~6 million rows (30-day simulation).
-- **Each row**: Represents a single mobile money transaction..
+- **Each row**: Represents a single mobile money transaction.
 
 ---
 

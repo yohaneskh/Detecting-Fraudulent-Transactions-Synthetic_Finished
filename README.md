@@ -34,11 +34,11 @@ To build a supervised **Machine Learning model** capable of identifying fraudule
 
 ## E. Evaluation Metrics
 
-- **Precision**
-- **Recall**
-- **F1-Score**
-- **AUC-ROC**
-- **PR-AUC**
+- **Precision**.
+- **Recall**.
+- **F1-Score**.
+- **AUC-ROC**.
+- **PR-AUC**.
 
 ---
 
